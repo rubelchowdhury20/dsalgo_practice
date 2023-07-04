@@ -1,0 +1,39 @@
+###############################################
+Insertion sort: clrs chapter 2.1, page 17,..,20
+###############################################
+
+short note:
+
+loop from 2nd element till last. compare each anchor element with
+all previous sorted elements and put it at the correct position.
+Time complexity O(n^2).
+
+############################################
+Merge sort: clrs chapter 2.3, page 30,...,38
+############################################
+
+Divide - Conquer - Combine
+Divide the array to two parts, sort them using the same divide and conquer approach
+and finally combine them.
+Time complexity O(nlogn)
+
+A bit shaky, need to look at a better implementation
+
+####################################
+Selection sort: clrs, page 29, 2.2-2
+####################################
+
+Finding the smallest element and replacing with the first element and 
+increment the position of replacment.
+
+Time complexity O(n^2)
+
+###########################
+Quick sort: clrs, chapter 7
+###########################
+
+Taking the right most element as pivot element and arranging the all the elements
+lesser than it on left and bigger than it on right side. Then partitioning
+the left and right  ones again recursively.
+
+
