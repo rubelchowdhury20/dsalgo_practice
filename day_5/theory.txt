@@ -1,0 +1,12 @@
+#############
+Binary search
+#############
+
+Works on only sorted array. So, less useful. Only able to tell if the query element
+present in the sorted array.
+
+###################################
+Leetcode 33, Rotateted sorted array
+###################################
+
+Binary search with little more conditions
