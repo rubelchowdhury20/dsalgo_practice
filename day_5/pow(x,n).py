@@ -1,6 +1,6 @@
-#####################
-#      pow(x,n)     #
-#####################
+###############
+# Leetcode 50 #
+###############
 
 x = int(input("Enter the number : "))
 n = int(input("Enter the power : "))

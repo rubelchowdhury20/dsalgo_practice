@@ -36,4 +36,6 @@ Taking the right most element as pivot element and arranging the all the element
 lesser than it on left and bigger than it on right side. Then partitioning
 the left and right  ones again recursively.
 
+Time complexity O(nlogn)
+
 

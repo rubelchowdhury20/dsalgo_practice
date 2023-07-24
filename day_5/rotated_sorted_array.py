@@ -1,7 +1,6 @@
-########################
-# Rotated sorted array #
-########################
-
+###############
+# Leetcode 33 #
+###############
 
 import math
 import random
